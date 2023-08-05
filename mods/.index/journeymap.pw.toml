@@ -1,0 +1,14 @@
+name = "JourneyMap"
+filename = "journeymap-1.7.10-5.1.4p6-unlimited.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/TaXRbmP2/journeymap-1.7.10-5.1.4p6-unlimited.jar"
+hash-format = "sha512"
+hash = "10e53c072ccdc22fe10cff7848334e763f6cafe11cf074e8016807eb05807f460294605479c861b788a2eb5fdd5b5024ab1b53cb5ab1f842fa80fb866958e082"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "TaXRbmP2"

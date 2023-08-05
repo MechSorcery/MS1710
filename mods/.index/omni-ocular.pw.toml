@@ -1,0 +1,14 @@
+name = "Omni Ocular"
+filename = "OmniOcular-1.7.10-1.0-java8,17-20.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "9b9f14fde326b40debb2b9fcd12be7fab3327928"
+
+[update]
+[update.curseforge]
+file-id = 4475975
+project-id = 262048

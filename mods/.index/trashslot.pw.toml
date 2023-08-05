@@ -1,0 +1,14 @@
+name = "TrashSlot"
+filename = "trashslot-mc1.7.10-1.0.31.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c090926d4030393810aa233efbbaf61a0fb51aa2"
+
+[update]
+[update.curseforge]
+file-id = 2267308
+project-id = 235577

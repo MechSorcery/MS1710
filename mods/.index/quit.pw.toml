@@ -1,0 +1,14 @@
+name = "Quit"
+filename = "Quit-Forge-1.7.10-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/bcIar9jW/versions/BdKoEuy9/Quit-Forge-1.7.10-1.0.1.jar"
+hash-format = "sha512"
+hash = "406befc3a469e51546174fdb9e9a03be224295bb1a4845ab1c0078edf67eb8bd69c396fd44a48f480a415a20a03426256cce9d0d544ded612b826f0ae5c67e0a"
+
+[update]
+[update.modrinth]
+mod-id = "bcIar9jW"
+version = "BdKoEuy9"

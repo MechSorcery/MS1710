@@ -1,0 +1,14 @@
+name = "Raw Input"
+filename = "rawinput-1.7.10-v1.4.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/gXiGm15w/versions/9ncrVWxl/rawinput-1.7.10-v1.4.2.jar"
+hash-format = "sha512"
+hash = "144051f0ddcadb51f68ce0bdf9c4341bac84ffe1f2694c36d882fe7c41d29cd149b1820a116b1d4bcb62fe8246db9d0281794f9528fef160d8161dc289ec455e"
+
+[update]
+[update.modrinth]
+mod-id = "gXiGm15w"
+version = "9ncrVWxl"

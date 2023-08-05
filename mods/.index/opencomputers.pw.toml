@@ -1,0 +1,14 @@
+name = "OpenComputers"
+filename = "OpenComputers-MC1.7.10-1.8.3+089dd28-universal.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YiAbZis2/versions/Sj9B2WyS/OpenComputers-MC1.7.10-1.8.3%2B089dd28-universal.jar"
+hash-format = "sha512"
+hash = "85073d611b5cb5e84797bbd47bfdea46e4d8290ce83a33d66ebb2e92241941009705408874dcce921e1ba34218e7a26292ec519c6c28e4af34571357c6d4e7d4"
+
+[update]
+[update.modrinth]
+mod-id = "YiAbZis2"
+version = "Sj9B2WyS"

@@ -1,0 +1,14 @@
+name = "RFTools (Legacy)"
+filename = "rftools-4.23.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/FwyGRcXc/versions/yh0gvwT5/rftools-4.23.jar"
+hash-format = "sha512"
+hash = "af3d02219dd63f0e814aae3869eaa53dc08502fc79d25e8a45cd5c37a830bb8a118064025bb4cfcc64465c245dc0c9d7ab32d531b741685e415a661cfbc3adce"
+
+[update]
+[update.modrinth]
+mod-id = "FwyGRcXc"
+version = "yh0gvwT5"

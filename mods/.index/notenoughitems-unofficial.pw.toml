@@ -1,0 +1,14 @@
+name = "NotEnoughItems Unofficial 1.7.10"
+filename = "NotEnoughItems-2.3.80-GTNH.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iNPc3Onu/versions/VOKoc242/NotEnoughItems-2.3.80-GTNH.jar"
+hash-format = "sha512"
+hash = "8657d5605ae7d6cf1532a51d9ebc334e0ee355a21b00ba22ed66ffa4d7d1ff5664e9e387e72b526dce920cff8a95a6b1a96c02bc2c34531d5e6b7161a780bfec"
+
+[update]
+[update.modrinth]
+mod-id = "iNPc3Onu"
+version = "VOKoc242"

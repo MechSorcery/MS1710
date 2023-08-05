@@ -1,0 +1,14 @@
+name = "ComputerCraft"
+filename = "ComputerCraft1.75.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/r7tyeVvQ/versions/tc473jXB/ComputerCraft1.75.jar"
+hash-format = "sha512"
+hash = "40556600281eb375586cc95280feeb622928e2ad1365018a45af96111efc31c81016e6049629739f6213a04a703b65bbb5b8dcae1230af47326bd446ca661204"
+
+[update]
+[update.modrinth]
+mod-id = "r7tyeVvQ"
+version = "tc473jXB"

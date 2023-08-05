@@ -1,0 +1,14 @@
+name = "McJtyLib"
+filename = "mcjtylib-1.8.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/1Zu0uTEE/versions/EIS07pmm/mcjtylib-1.8.1.jar"
+hash-format = "sha512"
+hash = "8827bfdd694a316beec75a59a6706bc2cf54d0288f500e9802a9135eb4c532796456340aba9d36fa6f4ee8ddbb8064c0d645a819bbe2791085dc160546d46e22"
+
+[update]
+[update.modrinth]
+mod-id = "1Zu0uTEE"
+version = "EIS07pmm"

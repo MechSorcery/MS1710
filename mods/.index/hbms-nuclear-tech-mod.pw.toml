@@ -1,0 +1,14 @@
+name = "Hbm's Nuclear Tech Mod"
+filename = "HBM-NTM-[1.0.27_X4648].jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "89631f85ed9646035a4109f070a8204a36dcf937"
+
+[update]
+[update.curseforge]
+file-id = 4621528
+project-id = 235439
